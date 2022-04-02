@@ -1,5 +1,4 @@
-### Hi Everyone 👋
-#### 안녕하세요 백엔드 개발자를 꿈꾸는 소년입니다
+### Hello 👋, I'm Seo Hyeon 👨‍💻
 <!--
 **baeseohyeon/baeseohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
