@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeseohyeon&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baepoce)](https://solved.ac/baepoce)
-
 <h3 align="center">
     Skills
 </h3>
@@ -27,3 +22,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-339933?&style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeseohyeon&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baepoce)](https://solved.ac/baepoce)
