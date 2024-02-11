@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeseohyeon&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baepoce)](https://solved.ac/baepoce)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baepoce)](https://solved.ac/baepoce)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=baepoce&theme=warm)
